@@ -6,6 +6,7 @@ public class withdraw {
 
         //how money
         // $$
+        // 500 dollars updated
 
 
     }
